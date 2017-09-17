@@ -1,0 +1,56 @@
+{
+  "seriesTitle": "Die Simpsons",
+  "seasons": [
+    [
+      {
+        "hosters": [
+          "https://serienstream.to/out/12/1696490",
+          "https://serienstream.to/out/12/1696491"
+        ],
+        "description": "Es herrscht eine Umweltkrise in Springfield: Der See ist zugemüllt und der nächste Krümel Abfall, der in den See gekippt wird, verursacht eine Katastrophe.Homer nimmt das für einen Donut in Kauf und kippt ein Silo mit Schweinemist in den See.Die Regierung reagiert mit dem Einsperren der Stadt unter einer Kuppel.Nachdem herauskommt, dass Homer der Täter war, beginnt eine Jagd. Durch ganz Amerika bis hin nach Alaska und wieder zurück nach Springfield. Und alle sind am Ende glücklich.",
+        "title": "Die Simpsons - Der Film"
+      },
+      {
+        "hosters": [
+          "https://serienstream.to/out/12/3833",
+          "https://serienstream.to/out/12/2037815",
+          "https://serienstream.to/out/12/1743926"
+        ],
+        "description": "Marge bringt Maggie in die Kita wo an Maggie zuerst Gehirntests unterzogen werden und sie dann in eine Gruppe mit Gerald gesteckt wird.",
+        "title": "Die Simpsons: Der längste Kita Tag"
+      }
+    ],
+    [
+      {
+        "hosters": [
+          "https://serienstream.to/out/12/2254943",
+          "https://serienstream.to/out/12/2254947",
+          "https://serienstream.to/out/12/2254944",
+          "https://serienstream.to/out/12/2254942",
+          "https://serienstream.to/out/12/2254946",
+          "https://serienstream.to/out/12/2254945",
+          "https://serienstream.to/out/12/2042514"
+        ],
+        "description": "Weihnachten steht vor der Tür, und die Kleinen präsentieren Homer und Marge ihre Wunschzettel: Lisa wünscht sich ein Pony, Bart eine Tätowierung. Als Bart dann tatsächlich mit einer Tätowierung nach Hause kommt, geht für das Entfernen der Tätowierung das gesamte Weihnachtsgeld drauf. Inzwischen erfährt Homer, dass es diesmal keine Weihnachtsgratifikation gibt. So nimmt der geplagte Vater einen Nebenjob als Weihnachtsmann an!",
+        "title": "Es Weihnachtet Schwer"
+      },
+      {
+        "hosters": [
+          "https://serienstream.to/out/12/2254951",
+          "https://serienstream.to/out/12/2254949",
+          "https://serienstream.to/out/12/2254950",
+          "https://serienstream.to/out/12/2254952",
+          "https://serienstream.to/out/12/2254953",
+          "https://serienstream.to/out/12/2254948",
+          "https://serienstream.to/out/12/2042515"
+        ],
+        "description": "Nachdem Bart am ende eines Testes einen Test von Martin nimmt und seinen Namen mit seinem Test tauscht, wird Bart von dem Schulpsychologen an eine andere Schule weitergeleitet in der nur Kinder mit einem hohen IQ unterrichtet werden. Doch diese merken schon bald das Bart nicht so schlau ist wie er im Test abgeschnitten hat.",
+        "title": "Bart wird ein Genie"
+      }
+    ]
+  ],
+  "genres": [
+    "Zeichentrick",
+    "Comedy"
+  ]
+}
